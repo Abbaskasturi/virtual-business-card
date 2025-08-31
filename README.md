@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="Screenshot (806)" src="https://github.com/user-attachments/assets/ccbfcc06-b332-4f0d-9e11-cdbc433dac2e" />
+
 # Virtual Business Card
 
 A responsive and interactive virtual business card built with **HTML5**, **CSS3**, and **JavaScript**.
@@ -42,3 +44,4 @@ To get a local copy up and running, follow these simple steps.
 * **Phone**: 7993281864
 
 ---
+
